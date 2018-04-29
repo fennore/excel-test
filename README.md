@@ -1,5 +1,4 @@
-Requirements
--------
+# Requirements
 Requires Composer ([Getting Started](https://getcomposer.org/doc/00-intro.md))
 You will need **PHP >= 5.6**.
 # Convert Excel file to Po file and reverse
