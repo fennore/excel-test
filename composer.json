@@ -1,0 +1,17 @@
+{
+    "name": "fennore/excel-test",
+    "description": "Small excel test",
+    "type": "test project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.2",
+        "league/climate": "^3.4",
+        "league/container": "^2.4",
+        "symfony/console": "^3.4",
+        "duncan3dc/symfony-climate": "^0.2.0",
+        "gettext/gettext": "^4.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"Fennore\\Excel\\": "src/"}
+    }
+}
